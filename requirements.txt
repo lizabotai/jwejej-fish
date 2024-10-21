@@ -1,5 +1,4 @@
 datetime
 colorama
 aiohttp
-time
 asyncio
