@@ -1,0 +1,1 @@
+query_id=AAFn3Io-AwAAAGfcij4-2JSZ&user=%7B%22id%22%3A7491738727%2C%22first_name%22%3A%22Kiran%22%2C%22last_name%22%3A%22%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1729336462&hash=e02acd3151c19517bc248736bea28a8f9e20410860181c2dafa0a81730809e7a
