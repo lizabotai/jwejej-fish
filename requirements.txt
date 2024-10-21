@@ -1,6 +1,5 @@
 datetime
 colorama
-random
 aiohttp
 time
 asyncio
